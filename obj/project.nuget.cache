@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ki/hZRGyeWASjwcKGbJNPdzCxEQa3n27ZpdIqfUN1dHUvRk58cJjxA1He33ghphvJN/q+Ecr4BRLNwE8e2R4aQ==",
+  "success": true,
+  "projectFilePath": "e:\\WorkSpace\\dotnet-dapper\\dotnet-dapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roberto.frisanco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\roberto.frisanco\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\roberto.frisanco\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\roberto.frisanco\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\roberto.frisanco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\roberto.frisanco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\roberto.frisanco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
